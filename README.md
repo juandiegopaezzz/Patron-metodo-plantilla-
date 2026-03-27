@@ -1,1 +1,1 @@
-En este programa se pueden extraer documentos de tipo :(pdf, csv y docx), para ingresar la ruta de acceso al documento se deben eliminar las comillas de la ruta, ejemplo = C:\Users\USER\Downloads\ejemplo.pdf   
+En este programa se pueden extraer documentos de tipo :(pdf, csv y docx), para ingresar la ruta de acceso al programa, esta no debe tener comillas , ejemplo = C:\Users\USER\Downloads\ejemplo.pdf   
