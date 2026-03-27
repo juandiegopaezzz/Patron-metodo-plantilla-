@@ -1,0 +1,5 @@
+com\mycompany\metodoplantilla\app\Main.class
+com\mycompany\metodoplantilla\core\DataMiner.class
+com\mycompany\metodoplantilla\miners\CSVDataMiner.class
+com\mycompany\metodoplantilla\miners\DocDataMiner.class
+com\mycompany\metodoplantilla\miners\PDFDataMiner.class
